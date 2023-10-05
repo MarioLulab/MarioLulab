@@ -1,4 +1,4 @@
-### Hey there, I'm Qi Lu <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey there, I'm Lu Qi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ---
 ![programming](https://github.com/MarioLulab/MarioLulab/assets/61354321/13df7b8d-30b0-40bc-81ee-eb3dde66635a)
