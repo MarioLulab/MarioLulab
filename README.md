@@ -1,7 +1,7 @@
 ### Hey there, I'm Lu Qi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ---
-![programming](https://github.com/MarioLulab/MarioLulab/assets/61354321/13df7b8d-30b0-40bc-81ee-eb3dde66635a)
+![programming](https://github.com/MarioLulab/MarioLulab/assets/61354321/59fb6a4b-27f8-4e2c-873d-8a751f68f076)
 
 - 👨‍🎓 Earned Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn). Now pursuing my Master's degree at [Zhejiang University](https://www.zju.edu.cn).
 - 💻 Skilled in C/C++ & Python, always ready to learn more.
@@ -24,7 +24,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="http://ascend.huawei.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/53141342?s=200&v=4" alt="ascend" width="40" height="40"/> </a>
 </p>
-
 
 
 <!--
