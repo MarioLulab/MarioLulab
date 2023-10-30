@@ -3,7 +3,7 @@
 ---
 ![programming](https://github.com/MarioLulab/MarioLulab/assets/61354321/59fb6a4b-27f8-4e2c-873d-8a751f68f076)
 
-- 👨‍🎓 Earned Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn). Now pursuing my Master's degree at [Zhejiang University](https://www.zju.edu.cn).
+- 👨‍🎓 2022-2025 Master BME@ZJU | 2018-2022 Bachelor EE@ZJU 
 - 💻 Skilled in C/C++ & Python, always ready to learn more.
 - 😄 Interested in Computer Vision & Deep Learning System.
 - 🌱 Currently learning AI Compiler, Distributed System and Golang.
