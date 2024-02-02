@@ -6,7 +6,7 @@
 - 👨‍🎓 2022-2025 Master BME@ZJU | 2018-2022 Bachelor EE@ZJU 
 - 💻 Skilled in C/C++ & Python, always ready to learn more.
 - 😄 Interested in Computer Vision & Deep Learning System.
-- 🌱 Currently learning AI Compiler, Distributed System and Golang.
+- 🌱 Currently learning Distributed System and Cuda.
 - ❤ Crazy about Football ⚽ and Fitness 💪.
 
 <h3 align="left">👨‍💻 Tech I work on:</h3>
